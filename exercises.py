@@ -92,7 +92,7 @@ print("Exercise 5:", list_home_town_items())
 
 def create_awesome_students():
     student = ["Tina", "Fred", "Wilma"]
-    awesome_students = [n + " is awesome" for n in student]
+    awesome_students = [n + " is awesome!" for n in student]
     return awesome_students
 
 
